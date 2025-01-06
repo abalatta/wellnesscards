@@ -379,7 +379,7 @@
     padding-block: 0.5rem;
     list-style-type: "✨";
     text-align: left;
-    height: 100px;
+    height: 140px;
     font-size: small;
   }
   
@@ -415,4 +415,8 @@
       margin: auto;
     }
   }
+img{
+    border-radius: 5%;
+  }
+  
   
